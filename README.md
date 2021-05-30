@@ -30,7 +30,8 @@
 <br />
 <br />
 
-![Akayiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Khaled-dev&count_private=true&show_icons=true&theme=algolia)
+![Akayiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Khaled-dev&count_private=true&show_icons=true&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Khaled-dev&layout=compact)
+
 
 [website]: http://www.vortex.yousry.org/
 [html_website]: https://en.wikipedia.org/wiki/HTML
