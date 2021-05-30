@@ -32,6 +32,11 @@
 
 ![Akayiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Khaled-dev&count_private=true&show_icons=true&theme=algolia) 
 
+<a href="https://github.com/Ahmed-Khaled-dev/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Khaled-dev&layout=compact&theme=algolia" />
+</a>
+
 [website]: http://www.vortex.yousry.org/
 [html_website]: https://en.wikipedia.org/wiki/HTML
 [atom_website]: https://atom.io/
