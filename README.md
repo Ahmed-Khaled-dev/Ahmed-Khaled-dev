@@ -13,7 +13,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Akayiz Spotify Playing" width="350" />](https://open.spotify.com/user/31tl7h2lnsiisaojwfulan5gme6q)
 
 ### Connect with me:
-- <img align="left" alt="Discord" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Discord-Logo-Color.svg/1200px-Discord-Logo-Color.svg.png" /> : Akayiz#0101
+- <img align="left" alt="Discord" width="22px" src="https://preview.redd.it/s9biyhs4lix61.jpg?width=960&crop=smart&auto=webp&s=815ce0836ecc4a00dfe63ac1aa28edf3fc523d26" /> : Akayiz#0101
 
 <br />
 
