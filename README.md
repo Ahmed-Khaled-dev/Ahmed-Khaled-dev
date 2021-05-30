@@ -30,7 +30,12 @@
 <br />
 <br />
 
-![Akayiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Khaled-dev&count_private=true&show_icons=true&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Khaled-dev&layout=compact)](https://github.com/Ahmed-Khaled-dev/github-readme-stats)
+![Akayiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Khaled-dev&count_private=true&show_icons=true&theme=algolia) 
+
+<br />
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Khaled-dev&layout=compact)
 
 
 [website]: http://www.vortex.yousry.org/
