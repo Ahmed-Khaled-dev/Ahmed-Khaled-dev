@@ -35,7 +35,7 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Khaled-dev&langs_count=1&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Khaled-dev&langs_count=1&layout=compact)
 
 
 [website]: http://www.vortex.yousry.org/
