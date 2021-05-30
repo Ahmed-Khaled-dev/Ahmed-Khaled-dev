@@ -29,11 +29,12 @@
 [<img align="left" alt="Ubuntu" width="26px" src="https://brandslogos.com/wp-content/uploads/images/ubuntu-logo.png" />][ubuntu_website]
 
 <br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Akayiz's GitHub Stats" src="https://github-readme-stats.Ahmed-Khaled-dev.vercel.app/api?username=Ahmed-Khaled-dev&show_icons=true&hide_border=true" />
+  <img align="left" alt="Akayiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Khaled-dev&show_icons=true&hide_border=true" />
 
 </details>
 
