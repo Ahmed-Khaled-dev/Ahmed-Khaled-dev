@@ -1,6 +1,4 @@
-### Hi there, I'm Ahmed - aka Akayiz 👋
-
-## I'm a Highschool student, Developer and Guitarist!!
+### Hi there, I'm Ahmed - aka Akayiz 👋, I'm a Highschool Developer.
 
 - 🔭 I am currently working on "Vortex" a discord related project of my own: [Vortex's website][website]!
 - 🌱 I’m currently learning as much as i can 🤣
