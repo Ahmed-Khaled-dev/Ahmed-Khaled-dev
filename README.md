@@ -13,7 +13,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Akayiz Spotify Playing" width="350" />](https://open.spotify.com/user/31tl7h2lnsiisaojwfulan5gme6q)
 
 ### Connect with me:
-- <img align="left" alt="Discord" width="22px" src="https://preview.redd.it/s9biyhs4lix61.jpg?width=960&crop=smart&auto=webp&s=815ce0836ecc4a00dfe63ac1aa28edf3fc523d26" />:Akayiz#0101
+- <img align="left" alt="Discord" width="22px" src="https://preview.redd.it/s9biyhs4lix61.jpg?width=960&crop=smart&auto=webp&s=815ce0836ecc4a00dfe63ac1aa28edf3fc523d26" />Akayiz#0101
 
 ### Languages/Tools that I've worked with:
 [<img align="left" alt="Atom" width="26px" src="https://gfx4arab.com/wp-content/uploads/2020/07/atom-4.svg" />][atom_website]
@@ -33,7 +33,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Akayiz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Akayiz's GitHub Stats" src="https://github-readme-stats.Ahmed-Khaled-dev.vercel.app/api?username=Ahmed-Khaled-dev&show_icons=true&hide_border=true" />
 
 </details>
 
