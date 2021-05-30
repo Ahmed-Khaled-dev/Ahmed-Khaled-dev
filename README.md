@@ -13,9 +13,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Akayiz Spotify Playing" width="350" />](https://open.spotify.com/user/31tl7h2lnsiisaojwfulan5gme6q)
 
 ### Connect with me:
-- <img align="left" alt="Discord" width="22px" src="https://preview.redd.it/s9biyhs4lix61.jpg?width=960&crop=smart&auto=webp&s=815ce0836ecc4a00dfe63ac1aa28edf3fc523d26" /> : Akayiz#0101
-
-<br />
+- <img align="left" alt="Discord" width="22px" src="https://preview.redd.it/s9biyhs4lix61.jpg?width=960&crop=smart&auto=webp&s=815ce0836ecc4a00dfe63ac1aa28edf3fc523d26" />:Akayiz#0101
 
 ### Languages/Tools that I've worked with:
 [<img align="left" alt="Atom" width="26px" src="https://gfx4arab.com/wp-content/uploads/2020/07/atom-4.svg" />][atom_website]
@@ -30,7 +28,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github_website]
 [<img align="left" alt="Ubuntu" width="26px" src="https://brandslogos.com/wp-content/uploads/images/ubuntu-logo.png" />][ubuntu_website]
 
-<br />
 <br />
 
 <details>
