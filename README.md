@@ -5,10 +5,6 @@
 - 🥅 Github 2023 Goals: Contribute more to Open Source project and Share more useful open source code.
 - ⚡ Fun fact: I love to draw and play guitar and listen to old music (1960-1990)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Akayiz Spotify Playing" width="350" />](https://open.spotify.com/user/31tl7h2lnsiisaojwfulan5gme6q)
-
 ### Connect with me:
 - <img align="left" alt="Discord" width="22px" src="https://preview.redd.it/s9biyhs4lix61.jpg?width=960&crop=smart&auto=webp&s=815ce0836ecc4a00dfe63ac1aa28edf3fc523d26" />Akayiz#0101
 
