@@ -1,7 +1,7 @@
-### Hi there, I'm Ahmed Khaled - aka Akayiz 👋
+### Hi there, I'm Ahmed Khaled - aka Akayiz (I'm currently majoring in CS)👋
 
 - 🌱 I’m currently learning as much as i can 🤣
-- 👯 I’m looking to get better in Python and to work on more projects and learn new programming languages like (C++)
+- 👯 I’m looking to get better at problem solving and overall thinking rather than any specific technology or language and to work on more projects.
 - 🥅 Github 2023 Goals: Contribute more to Open Source project and Share more useful open source code.
 - ⚡ Fun fact: I love to draw and play guitar and listen to old music (1960-1990)
 
