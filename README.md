@@ -1,9 +1,8 @@
-### Hi there, I'm Ahmed - aka Akayiz 👋, I'm a Highschool Developer.
+### Hi there, I'm Ahmed Khaled - aka Akayiz 👋
 
-- 🔭 I am currently working on "Vortex" a discord related project of my own.
 - 🌱 I’m currently learning as much as i can 🤣
 - 👯 I’m looking to get better in Python and to work on more projects and learn new programming languages like (C++)
-- 🥅 Github 2021 Goals: Contribute more to Open Source project and Share more useful open source code.
+- 🥅 Github 2023 Goals: Contribute more to Open Source project and Share more useful open source code.
 - ⚡ Fun fact: I love to draw and play guitar and listen to old music (1960-1990)
 
 ### Spotify Playing 🎧
