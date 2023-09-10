@@ -1,12 +1,12 @@
 ### Hi there, I'm Ahmed Khaled - aka Akayiz (I'm currently majoring in CS)👋
 
-- 🌱 I’m currently learning as much as i can 🤣
-- 👯 I’m looking to get better at problem solving and overall thinking rather than any specific technology or language and to work on more projects.
+- 🌱 I’m currently learning as much as I can
+- 👯 I’m looking to improve at problem solving and overall thinking rather than any specific technology or language and work on more projects.
 - 🥅 Github 2023 Goals: Contribute more to Open Source project and Share more useful open source code.
 - ⚡ Fun fact: I love to draw and play guitar and listen to old music (1960-1990)
 
 ### Connect with me:
-- <img align="left" alt="Discord" width="22px" src="https://preview.redd.it/s9biyhs4lix61.jpg?width=960&crop=smart&auto=webp&s=815ce0836ecc4a00dfe63ac1aa28edf3fc523d26" />Akayiz#9533
+- <img align="left" alt="Discord" width="22px" src="https://preview.redd.it/s9biyhs4lix61.jpg?width=960&crop=smart&auto=webp&s=815ce0836ecc4a00dfe63ac1aa28edf3fc523d26" />akayiz
 
 ### Languages/Tools that I've worked with:
 [<img align="left" alt="Atom" width="26px" src="https://gfx4arab.com/wp-content/uploads/2020/07/atom-4.svg" />][atom_website]
