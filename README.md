@@ -9,7 +9,8 @@
 - <img align="left" alt="Discord" width="22px" src="https://preview.redd.it/s9biyhs4lix61.jpg?width=960&crop=smart&auto=webp&s=815ce0836ecc4a00dfe63ac1aa28edf3fc523d26" />akayiz
 
 ### Languages/Tools that I've worked with:
-[<img align="left" alt="Atom" width="26px" src="https://gfx4arab.com/wp-content/uploads/2020/07/atom-4.svg" />][atom_website]
+
+[<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />][cpp_website]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][python_website]
 [<img align="left" alt="Flask" width="26px" src="https://flask-training-courses.uk/images/flask-logo.png" />][flask_website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html_website]
@@ -27,9 +28,7 @@
 
 ![Akayiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Khaled-dev&count_private=true&show_icons=true&theme=algolia) 
 
-[website]: http://www.vortex.yousry.org/
 [html_website]: https://en.wikipedia.org/wiki/HTML
-[atom_website]: https://atom.io/
 [css_website]: https://en.wikipedia.org/wiki/CSS
 [js_website]: https://www.javascript.com/
 [node_website]: https://nodejs.org/en/
@@ -39,3 +38,4 @@
 [python_website]: https://www.python.org/
 [flask_website]: https://flask.palletsprojects.com/en/2.0.x/
 [ubuntu_website]: https://ubuntu.com/
+[cpp_website]: https://cplusplus.com/
